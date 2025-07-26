@@ -11,6 +11,78 @@ Este manual es una guía práctica, diseñada para ayudarte a ti y a tu equipo a
 
 El objetivo final no es solo entregar un buen trabajo, sino transformar el proceso en una **experiencia de aprendizaje enriquecedora**, donde cada miembro no solo aporte su conocimiento, sino que también desarrolle habilidades de comunicación, liderazgo y resolución de problemas que le servirán para siempre.
 
+## **Capítulo 1: La Fundación del Éxito - Planificación y Organización**
+
+Un buen comienzo es la mitad del trabajo. Una planificación sólida y deliberada es la mejor inversión que un equipo puede hacer; previene la mayoría de los problemas futuros como el estrés de última hora, los malentendidos sobre las responsabilidades y la distribución desigual del trabajo. Dedicar una o dos horas a esta fase ahorrará incontables horas de frustración más adelante.
+
+### **1.1. La Reunión Cero: Alineando Expectativas**
+
+Antes de investigar o escribir una sola palabra, es fundamental convocar una "Reunión Cero". El propósito de esta sesión es sincronizar al equipo, establecer las reglas del juego y asegurarse de que todos parten desde la misma línea y miran hacia la misma meta.
+
+**Checklist para una Reunión Cero efectiva:**
+
+* **[ ] Comprensión Unificada del Objetivo:** Lean y discutan juntos el enunciado del trabajo. ¿Qué pide exactamente el profesor? ¿Cuáles son los criterios de evaluación y sus ponderaciones? No asuman que todos lo entienden de la misma manera. Aclaren cualquier duda como grupo.
+
+* **[ ] Definición de Objetivos del Equipo:** Más allá de la nota, ¿qué quieren lograr? ¿Apuntan a la calificación máxima? ¿Quieren aprovechar para aprender una nueva herramienta? ¿Buscan crear un trabajo del que sentirse realmente orgullosos? Definir una ambición compartida aumenta la motivación.
+
+* **[ ] Mapeo de Fortalezas y Preferencias:** Sean honestos y estratégicos.
+    * ¿Quién tiene talento para el diseño visual?
+    * ¿A quién se le da bien investigar y sintetizar información?
+    * ¿Quién es un redactor meticuloso y bueno con la ortografía?
+    * ¿A quién le gusta organizar, planificar y mantener al equipo enfocado?
+    * Asignar tareas basadas en fortalezas y gustos aumenta tanto la calidad como la satisfacción.
+
+* **[ ] Establecer Canales de Comunicación:** Acuerden qué herramienta se usará para cada tipo de comunicación para evitar el caos.
+    * **Para discusiones rápidas e informales:** Un grupo de **WhatsApp** o **Telegram**.
+    * **Para decisiones, anuncios importantes y consultas que requieran registro:** Un canal en **Slack** o **Discord**. Permite tener conversaciones ordenadas por hilos.
+    * **Para el trabajo colaborativo en documentos:** **Google Docs**, **Microsoft 365**, y por supuesto, **GitHub** para el control de versiones.
+
+* **[ ] Fijar Frecuencia y Formato de Reuniones:** ¿Nos reuniremos una vez por semana? ¿Cada dos días? ¿Serán virtuales o presenciales? Fijen fechas y horas realistas para todos. Usen **Google Calendar** o una herramienta similar para enviar invitaciones y que nadie olvide los compromisos.
+
+* **[ ] Protocolo de Toma de Decisiones:** ¿Cómo se decidirá algo cuando haya opiniones divididas?
+    * **Consenso:** Ideal, pero no siempre posible.
+    * **Votación por mayoría simple:** Rápido y democrático.
+    * Definir esto ahora evita conflictos de poder más adelante.
+
+* **[ ] Plan de Contingencia y Resolución de Conflictos:** Es el punto más incómodo pero más necesario. ¿Qué hacemos si un miembro del equipo no cumple con su parte a tiempo? ¿Cómo manejamos los desacuerdos?
+    * **Paso 1:** Conversación privada y constructiva con la persona.
+    * **Paso 2:** Si no hay solución, mediación del equipo completo.
+    * **Paso 3:** Como último recurso, y de forma transparente, notificar al profesor.
+
+### **1.2. Desglose de Tareas y Creación del Cronograma**
+
+La frase "nos lo dividimos y ya" es la receta para el desastre. Un desglose detallado y visual de las tareas es clave para la claridad y la rendición de cuentas.
+
+1.  **Listar Todas las Tareas (WBS - Work Breakdown Structure):** Hagan una lluvia de ideas de *absolutamente todo* lo que hay que hacer, desde lo más general a lo más específico.
+
+    * Investigación bibliográfica inicial
+    * Definición del índice y estructura del documento
+    * Redacción - Introducción
+    * Redacción - Capítulo 1: Planificación
+    * Redacción - Capítulo 2: Herramientas
+    * Redacción - Conclusiones
+    * Búsqueda de imágenes y gráficos
+    * Diseño de la portada y formato del documento
+    * Creación de la lista de referencias en formato APA
+    * Revisión final de estilo, ortografía y gramática (Edición)
+    * Preparación de la presentación oral (si aplica)
+    * Ensayo de la presentación
+
+2.  **Estimar Tiempos y Asignar Responsables:** Al lado de cada tarea, estimen las horas que tomará (sean realistas y añadan un 20% de margen) y asignen un **responsable principal**. Puede haber colaboradores, pero cada tarea debe tener un único "dueño" que se encargue de que se complete.
+
+3.  **Crear un Cronograma Visual (Kanban o Gantt):**
+    * Una línea de tiempo o un tablero visual es mucho más efectivo que una simple lista. Usen herramientas como **Trello**, **Asana**, o la pestaña **Projects de GitHub**.
+    * Un tablero Kanban es ideal por su simplicidad. Permite ver de un vistazo qué se está haciendo, quién lo está haciendo y qué sigue.
+
+**Ejemplo de un Tablero Kanban Básico:**
+
+| **Backlog (Tareas por Hacer)** | **En Progreso (Trabajando Ahora)** | **En Revisión (Esperando Feedback)** | **Hecho (Completado)** |
+| :--- | :--- | :--- | :--- |
+| **Tarea:** Redactar Conclusiones<br>**Resp:** Carlos | **Tarea:** Redactar Capítulo 2<br>**Resp:** Ana<br>**Fecha Límite:** 01-Ago | **Tarea:** Capítulo 1<br>**Revisor:** David | **Tarea:** Investigación Inicial<br>**Resp:** Equipo |
+| **Tarea:** Diseñar Portada<br>**Resp:** Laura | | | **Tarea:** Definir Índice<br>**Resp:** Equipo |
+
+Este tablero no solo organiza, sino que también crea un sentimiento de progreso y responsabilidad compartida.
+
 ## **Capítulo 3: Normas de Citación y Formato (Estilo APA 7ma Edición)**
 
 El plagio, sea intencional o por descuido, es una de las faltas académicas más graves. Citar correctamente no solo es una obligación ética para respetar el trabajo de otros autores, sino que también aporta credibilidad, rigor y profundidad a tu propio trabajo, permitiendo a tus lectores consultar las fuentes originales.
